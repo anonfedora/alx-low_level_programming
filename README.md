@@ -1,1 +1,1 @@
-Repository for low level programming
+Static libraries
